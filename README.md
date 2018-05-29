@@ -10,7 +10,7 @@ Objective-C [SOCKS 5](http://en.wikipedia.org/wiki/SOCKS) / [RFC 1928](http://ww
 `SOCKSProxy` - Dead simple SOCKSv5 proxy server for OS X or iOS. Supports acting as background "VoIP" sockets on iOS via GCDAsyncSocket.
 
 ```obj-c
-Refer to the server xcode project in Tests folder to know how to setup your own socks proxy server.
+Refer to the example projects in Tests folder to know how to setup your own socks5 proxy server.
 ```
 
 `GCDAsyncProxySocket` - Proxy-compatible subclass and drop-in replacement for (most of) GCDAsyncSocket.
